@@ -1,4 +1,3 @@
-![Sim, senhor - Levi Ackerman](https://github.com/mariana-nascimento-dev/mariana-nascimento-dev/assets/128146259/90aaf260-ef5b-4c3e-8f61-c4b7d56cd44d)
 - 👋 Hi, I’m Mariana.
 - 🌎 I'm from Brasil.
 - 👀 I’m interested in be part of a team.
