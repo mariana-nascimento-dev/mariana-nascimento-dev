@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mariana.
 - 🌎 I'm from Brasil.
-- 👀 I’m interested in be part of a team.
-- 🌱 I have knowledge in HTML, CSS, JavaScript, C, and Verilog.
 - 📫 How to reach me? Please message me on LinkedIn, I'm @mariana-nascimento.
 
 <!---
